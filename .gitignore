@@ -1,0 +1,6 @@
+*.suo
+*.pdb
+obj/
+bin/
+TestResults/
+StyleCop.Cache
